@@ -1,0 +1,127 @@
+/index.html is readed
+GET---/ --- 11 ---1520911245635
+GET---/favicon.ico --- 1 ---1520911246668
+/index.html is readed
+GET---/ --- 3 ---1520911459032
+GET---/feed --- 1 ---1520913234784
+/index.html is readed
+GET---/ --- 2 ---1520915803996
+/index.html is readed
+GET---/ --- 2 ---1520915872374
+GET---/robots.txt --- 2 ---1520916123815
+GET---/robots.txt --- 1 ---1520916128743
+/index.html is readed
+GET---/ --- 3 ---1520920322480
+GET---/robots.txt --- 2 ---1520920822808
+/index.html is readed
+GET---/ --- 1 ---1520920990033
+/index.html is readed
+GET---/ --- 4 ---1520924051978
+/index.html is readed
+GET---/ --- 2 ---1520924617637
+GET---/robots.txt --- 2 ---1520926225120
+/index.html is readed
+GET---/ --- 2 ---1520926225167
+/index.html is readed
+GET---/ --- 2 ---1520927777126
+GET---/tag/country/feed --- 2 ---1520928476222
+GET---/t8/wp-content/uploads/2008/10/319874a8fa0692b5bb681dc4249f0db8.jpg --- 1 ---1520931979785
+GET---/robots.txt --- 1 ---1520932398209
+/index.html is readed
+GET---/ --- 1 ---1520932398299
+/more.html is readed
+GET---/more --- 2 ---1520932495634
+/code.html is readed
+GET---/code --- 2 ---1520932587585
+GET---/show --- 15 ---1520932709049
+select * from contentwhere id='3'
+GET---/more/3 --- 4 ---1520932711967
+GET---/t8/wp-content/uploads/2008/10/e9a9ace8bf9ce7bb98e5ad94e5ad90e5838f.jpg --- 2 ---1520933082500
+GET---/t8/wp-content/uploads/2008/10/e9a9ace8bf9ce7bb98e5ad94e5ad90e5838f.jpg --- 0 ---1520933082733
+GET---/t8/wp-content/uploads/2008/10/e9a9ace8bf9ce7bb98e5ad94e5ad90e5838f.jpg --- 0 ---1520933082950
+GET---/t8/wp-content/uploads/2008/10/e9a9ace8bf9ce7bb98e5ad94e5ad90e5838f.jpg --- 0 ---1520933083249
+/index.html is readed
+GET---/ --- 2 ---1520934498036
+GET---/robots.txt --- 1 ---1520936951066
+GET---/2009/03 --- 0 ---1520936951172
+HEAD---/SiteViews/Simplified/Index/Images/Home/f2.png --- 2 ---1520938803135
+GET---/verifylogin.do --- 1 ---1520939780553
+/index.html is readed
+GET---/ --- 3 ---1520940019131
+GET---/tag/bcmw/feed --- 1 ---1520941595846
+GET---/manager/html --- 1 ---1520944971149
+GET---/t8/wp-content/uploads/2008/09/1597211126.jpg --- 2 ---1520945552279
+/index.html is readed
+GET---/ --- 1 ---1520945588308
+/index.html is readed
+GET---/ --- 3 ---1520947238831
+GET---/robots.txt --- 2 ---1520947814323
+/index.html is readed
+GET---/ --- 1 ---1520947815414
+/code.html is readed
+GET---/code --- 1 ---1520947816584
+GET---/show --- 7 ---1520947817671
+/more.html is readed
+GET---/more --- 1 ---1520947818762
+select * from contentwhere id='3'
+GET---/more/3 --- 2 ---1520947819842
+select * from contentwhere id='5'
+GET---/more/5 --- 2 ---1520947820924
+GET---/tag/php/feed --- 2 ---1520948085917
+GET---/robots.txt --- 1 ---1520948123577
+/index.html is readed
+GET---/ --- 2 ---1520948138999
+GET---/tag/backup/feed --- 1 ---1520951021736
+GET---/wp-includes/js/nri.exe --- 1 ---1520951058548
+GET---/wp-login.php --- 2 ---1520951610231
+/index.html is readed
+GET---/ --- 2 ---1520951665970
+GET---/robots.txt --- 2 ---1520957188989
+GET---/robots.txt --- 1 ---1520957189127
+/index.html is readed
+GET---/ --- 1 ---1520957192585
+/index.html is readed
+GET---/ --- 2 ---1520957192793
+GET---/wp-includes/SimplePie/ogi.exe --- 1 ---1520959681440
+GET---/wp-includes/ --- 1 ---1520959681452
+GET---/tag/formatfactory/feed --- 1 ---1520960965975
+GET---/domain.asp?name=haihai.org --- 1 ---1520961410944
+GET---/robots.txt --- 0 ---1520961414428
+GET---/domain.asp?name=wunian.com.cn --- 0 ---1520961421584
+GET---/domain.asp?name=sichouLian.com --- 0 ---1520961431468
+GET---/robots.txt --- 1 ---1520962165684
+/index.html is readed
+GET---/ --- 2 ---1520962165820
+GET---/wordpress-api-key.html --- 1 ---1520962200247
+/index.html is readed
+GET---/ --- 1 ---1520962200678
+GET---/wp-login.php --- 1 ---1520964358126
+GET---/tag/wordpress/feed --- 2 ---1520964449682
+/index.html is readed
+GET---/ --- 3 ---1520964830456
+GET---/robots.txt --- 1 ---1520967559305
+/index.html is readed
+GET---/ --- 2 ---1520967619702
+GET---/index.action --- 1 ---1520967620150
+/index.html is readed
+GET---/ --- 2 ---1520971086340
+GET---/tag/millionaire/feed --- 1 ---1520974030789
+/index.html is readed
+GET---/ --- 3 ---1520975247265
+GET---/tag/peiyang/feed --- 2 ---1520976365884
+GET---/robots.txt --- 2 ---1520977115667
+/app/lib/controller.js:40
+            connection().content;
+            ^
+
+TypeError: connection is not a function
+    at Connection.handleError (/app/lib/controller.js:40:13)
+    at emitOne (events.js:116:13)
+    at Connection.emit (events.js:211:7)
+    at Connection._handleProtocolError (/app/node_modules/mysql/lib/Connection.js:433:8)
+    at emitOne (events.js:116:13)
+    at Protocol.emit (events.js:211:7)
+    at Protocol._delegateError (/app/node_modules/mysql/lib/protocol/Protocol.js:392:10)
+    at Protocol.end (/app/node_modules/mysql/lib/protocol/Protocol.js:117:8)
+    at Socket.<anonymous> (/app/node_modules/mysql/lib/Connection.js:109:28)
+    at emitNone (events.js:111:20)
